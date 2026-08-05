@@ -138,14 +138,19 @@ Guided by Dr. A. V. N. Chandra Sekhar, Department of Information Technology, Sas
 
 ### My Contribution
 
-Replace the placeholders below with only work you personally completed:
+### My Contribution
 
-- **My role:** `[ADD YOUR TRUE ROLE]`
-- **Code developed:** `[ADD FILES OR MODULES YOU PERSONALLY BUILT]`
-- **Hardware work:** `[ADD COMPONENTS YOU CONFIGURED OR TESTED]`
-- **Testing completed:** `[ADD TEST CONDITIONS AND RESULTS YOU VERIFIED]`
-- **Documentation contribution:** `[ADD SECTIONS, DIAGRAMS OR PRESENTATION WORK]`
-- **Main challenge I solved:** `[ADD ONE TRUE TECHNICAL PROBLEM]`
+This was a four-member academic team project.
+
+My contribution included:
+
+- Participating in the project design and research
+- Studying driver-drowsiness indicators and Face Mesh
+- Supporting the system architecture and module design
+- Contributing to project documentation and presentation
+- Participating in testing and evaluation
+
+More detailed source-code attribution will be added after reviewing the original project files.
 
 ---
 
