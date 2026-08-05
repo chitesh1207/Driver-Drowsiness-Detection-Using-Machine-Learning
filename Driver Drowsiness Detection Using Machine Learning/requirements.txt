@@ -1,0 +1,5 @@
+# Add only dependencies confirmed by the actual source code.
+# Example:
+# mediapipe
+# opencv-python
+# numpy
