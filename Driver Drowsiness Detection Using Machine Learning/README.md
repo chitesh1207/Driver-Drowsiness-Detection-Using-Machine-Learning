@@ -94,7 +94,7 @@ Decision: Alert or Drowsy
 - Threshold-based decision logic
 - Real-time camera processing
 
-> Add only libraries that appear in the actual source code. Do not claim OpenCV, TensorFlow, scikit-learn or a trained classifier unless the repository contains evidence that they were used.
+
 
 ---
 
@@ -138,7 +138,6 @@ Guided by Dr. A. V. N. Chandra Sekhar, Department of Information Technology, Sas
 
 ### My Contribution
 
-### My Contribution
 
 This was a four-member academic team project.
 
